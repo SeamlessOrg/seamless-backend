@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PratikAwaik/seamless-backend.git"
+    "url": "git+https://github.com/SeamlessOrg/seamless-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PratikAwaik/seamless-backend/issues"
+    "url": "https://github.com/SeamlessOrg/seamless-backend/issues"
   },
-  "homepage": "https://github.com/PratikAwaik/seamless-backend#readme",
+  "homepage": "https://github.com/SeamlessOrg/seamless-backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
